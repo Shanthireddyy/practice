@@ -1,0 +1,20 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+h1{
+    font-size:1.8rem;
+}
+
+.aaa{
+  
+    text-align: center;
+}
+
+.imgg{
+    margin-top:20px;
+    border:2px solid white;
+    width:50%;
+}
+
